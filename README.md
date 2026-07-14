@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Pratik Kumar  
+### 💻 Full Stack Engineer | AI/ML Enthusiast  
 
-<!--
-**pratik-me/pratik-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student at **NSUT** | Passionate about developer experience, product thinking, and intelligent systems.
 
-Here are some ideas to get you started:
+### Tech Snapshot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```mermaid
+mindmap
+  root((Skills))
+    ((Languages))
+      Python
+      JavaScript
+      TypeScript
+      C++
+    ((Frameworks))
+      React
+      Flask
+      FastAPI
+      Express
+      Next.js
+      Streamlit
+      Pydantic
+      SQLAlchemy
+    ((AI/ML))
+```
+
+### Connect with Me  
+- [LinkedIn](https://www.linkedin.com/in/pratik-kumar-me/)
+- [GitHub](https://github.com/pratik-me)
+
+Thanks for visiting!
